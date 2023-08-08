@@ -1,0 +1,3 @@
+C:/Users/DELL/OneDrive/Desktop/Intern2Grow/WordsCounter/cmake-build-debug/CMakeFiles/WordsCounter.dir
+C:/Users/DELL/OneDrive/Desktop/Intern2Grow/WordsCounter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/OneDrive/Desktop/Intern2Grow/WordsCounter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
